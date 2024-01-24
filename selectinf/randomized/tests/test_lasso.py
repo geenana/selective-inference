@@ -1,4 +1,3 @@
-# This is a comment for testing. 
 from __future__ import division, print_function
 
 import numpy as np
